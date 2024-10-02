@@ -1,4 +1,4 @@
-<h1><div style="color:blue; display:inline;" src="https://greasyfork.org/fr-CA/scripts/493934-better-ui-smart-chess-bot">Better UI</div><div style="color:green; display:inline;">Smart Chess Bot: The Ultimate Chess Analysis System</div></h1>
+<a href="https://greasyfork.org/scripts/493934-better-ui-smart-chess-bot"> <h1><div style="color:blue; display:inline;">Better UI</div><div style="color:green; display:inline;">Smart Chess Bot: The Ultimate Chess Analysis System</div></h1></a>
 <br>
 <h1 style="color:red;">Description:</h1>
 <h4>Our chess analysis system, modified with a better UI, is designed to give players the edge they need to win. By using advanced algorithms and cutting-edge technology, our system can analyze any chess position and suggest the best possible move, helping players to make smarter and more informed decisions on the board.</h4>
